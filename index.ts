@@ -1,5 +1,4 @@
+import Control from "./bin/Control";
 function ablyJS() {
-  let controlScrept;
-  controlScrept = "scrept";
+  Control(10,12);
 }
-export default ablyJS();
