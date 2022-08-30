@@ -1,3 +1,0 @@
-function AblyJsController() {
-    const ablyJs = "";
-}
