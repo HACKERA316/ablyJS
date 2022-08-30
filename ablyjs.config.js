@@ -1,3 +1,3 @@
-function void ablyjsConfig(){
-  alert("hello me ablyjs")
+function AblyJsController() {
+    const ablyJs = "";
 }
