@@ -1,0 +1,20 @@
+{
+  "name": "ablyjs",
+  "version": "1.0.0-alpha",
+  "description": "It is a javascript library. With this software express you have a one page website security system and it is faster and rounter and a lot of features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACKERA316/ablyJS.git"
+  },
+  "keywords": [],
+  "author": "Muhammet ablay|ablyZ|ablay1234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HACKERA316/ablyJS/issues"
+  },
+  "homepage": "https://github.com/HACKERA316/ablyJS#readme"
+}
