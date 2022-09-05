@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/HACKERA316/ablyJS.git"
   },
-  "keywords": ["ablyjs","javascript","typescript"],
+  "keywords": [
+    "ablyjs",
+    "javascript",
+    "typescript"
+  ],
   "author": "Muhammet ablay",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HACKERA316/ablyJS/issues"
   },
-  "homepage": "https://github.com/HACKERA316/ablyJS/"
+  "homepage": "https://github.com/HACKERA316/ablyJS/",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  }
 }
