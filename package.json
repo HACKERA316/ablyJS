@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/HACKERA316/ablyJS/",
   "dependencies": {
-    "typescript": "^4.8.2"
+    "kismet": "^0.0.1",
+    "typescript": "^4.8.4"
   }
 }

@@ -1,66 +1,47 @@
+const bodyControl = document.querySelector("#ablyDataStart");
 
 
-const bodyControl = document.querySelector("html");
 
 const dataset = bodyControl.dataset;
 
-console.log(dataset)
+
+
 
 function refreshController(){
 
     if (dataset.ablyScriptRefresh === "on"){
-        //function text make
-        console.log('on')
-        refreshEnable();
+        ablyScriptRefresh();
     }
     else if (dataset.ablyScriptRefresh === "off"){
-        //function text make
-        console.log('off')
-        refreshDisable();
     }
     else if (dataset.ablyScriptRefresh === "refreshFULL"){
-        //function text make
-        refreshFull();
-        console.log('full')
     }
     else{
-        console.log('null prompt tag');
-    }
-//functions
-
-//function refresh full
-    function refreshFull(){
+        console.log("tag not found ")
     }
 
 
-//function refresh on
-    function refreshEnable(){
+
+
+    //ref on
+    function ablyScriptRefresh() {
+        console.log("on")
+
+
 
     }
 
-//function refresh off
-    function refreshDisable(){
 
-    }
+
+
+
+
+
+
 
 }
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+refreshController();
