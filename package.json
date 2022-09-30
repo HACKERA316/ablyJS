@@ -1,10 +1,10 @@
 {
   "name": "ablyjs",
-  "version": "1.0.0-alpha-1",
+  "version": "1.0.0-alpha-2",
   "description": "null text",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no .test specified\\\" && exit 1"
+    "start": "node ably.js"
   },
   "repository": {
     "type": "git",
